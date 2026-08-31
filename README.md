@@ -60,6 +60,7 @@ En 2019, 74 départements étaient engagés dans une démarche PDIPR et une quar
 * Le dossier [ressources](ressources) contient les documents utiles pour les utilisateurs du standard ;
 * Le dossier [groupe_de_travail_CNIG](groupe_de_travail_CNIG) contient les comptes-rendus de réunions et les documents de suivi du groupe de travail ;
 * Le dossier [standard](standard) contient le standard ainsi que les documents qui lui sont liés ;
+* Le dossier [data_set_PDIPR_Opendata](jeux de données PDIPR - Opendata) contient les jeux de données PDIPR disponibles en Opendata ;
 
 > _A supprimer en l'absence de schéma JSON :_
 
