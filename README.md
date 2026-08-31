@@ -11,7 +11,9 @@
 ---
 <!-- Supprimer les trois tirets précédents (qui insèrent une ligne) -->
 
-# Standard <mark>Plan départemental des itinéraires de promenade et de randonnée (PDIPR)</mark>
+# Standard Plan départemental des itinéraires de promenade et de randonnée (PDIPR)
+
+Dépôt des documents et travaux du groupe de travail pour la création du standard PDIPR.
 
 <!-- Indiquer le nom du standard à la place de <mark>_Nom_</mark>. Le texte entre les balises "<mark>_" et "_</mark>" apparaît en italique surligné et doit être remplacé dans ce modèle -->
 
@@ -31,9 +33,15 @@ Davantage de documentation peut être trouvée sur le site du CNIG au lien suiva
 <!-- Pour remplacer le logo du CNIG, suivre le modèle "![texte alternatif](lien vers l'image) Les images peuvent être chargées sur le dépôt Github dans un dossier image -->
 ![logo du CNIG à remplacer par l'image du standard](https://cnig.gouv.fr/IMG/png/cnig2022_geolocalise-petit.png)
 
+## Présentation
+Le Groupe de travail a pour objectif de la création d'un standard de données du PDIPR.
+Le projet de standard est disponible ici.
+
 ## Contexte
 
-> _Décrire le contexte dans lequel le schéma a été élaboré. Il peut être utile de renvoyer ici vers la page du GT CNIG où la documentation du standard correspondant peut être trouvée._
+Le Plan départemental des itinéraires de promenade et de randonnée (PDIPR) a pour objectif, dans chaque département de France, de protéger les chemins ruraux et d’assurer la continuité des itinéraires ouverts à la randonnée pédestre. Il s’agit d’une compétence départementale obligatoire. Ce plan est établi par le département, après avis des communes intéressées. Il est inclus dans le plan départemental des espaces, sites et itinéraires relatifs aux sports de nature (PDESI).
+
+En 2019, 74 départements étaient engagés dans une démarche PDIPR et une quarantaine de jeux de données PDIPR existent aujourd’hui sur data.gouv.fr, sans que ceux-ci soient homogènes dans leur construction.
 
 ## Cadre juridique
 
