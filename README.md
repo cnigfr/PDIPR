@@ -27,7 +27,7 @@ Dépôt des documents et travaux du groupe de travail pour la création du stand
 > [!TIP]
 > Ce standard CNIG ne possède pas de schéma de données directement accessible sur schema.data.gouv.fr. 
 
-Davantage de documentation peut être trouvée sur le site du CNIG au lien suivant : <mark>_insérer le lien vers la page du GT_</mark>.
+Davantage de documentation peut être trouvée sur [le site du CNIG](https://cnig.gouv.fr/groupe-de-travail-plans-departementaux-des-a30072.html#H_Introduction).
 
 > Insérer une (ou plusieurs) image(s) pour illustrer la thématique en remplaçant le logo du CNIG ci-dessous.  
 <!-- Pour remplacer le logo du CNIG, suivre le modèle "![texte alternatif](lien vers l'image) Les images peuvent être chargées sur le dépôt Github dans un dossier image -->
