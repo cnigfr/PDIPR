@@ -57,6 +57,7 @@ En 2019, 74 départements étaient engagés dans une démarche PDIPR et une quar
 
 ## Organisation du dépôt
 
+* Le dossier [documentation](documentation) contient les documents utiles pour les utilisateurs du standard ;
 * Le dossier [ressources](ressources) contient les documents utiles pour les utilisateurs du standard ;
 * Le dossier [groupe_de_travail_CNIG](groupe_de_travail_CNIG) contient les comptes-rendus de réunions et les documents de suivi du groupe de travail ;
 * Le dossier [standard](standard) contient le standard ainsi que les documents qui lui sont liés ;
