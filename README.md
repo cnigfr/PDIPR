@@ -45,11 +45,23 @@ En 2019, 74 départements étaient engagés dans une démarche PDIPR et une quar
 
 ## Cadre juridique
 
-> _Citer les textes liés aux données sur lesquelles porte le schéma. Même lorsque l'utilisation du schéma n'est pas mentionnée dans les textes, il peut être utile de faire référence ici aux lois, décrets, arrêtés portant spécifiquement sur les données, leurs conditions de collecte, de partage, etc. Il n'est pas utile de citer les textes plus généraux (portant sur l'open data par exemple)._
+[Code de l’environnement  - art. L361-1](https://www.legifrance.gouv.fr/codes/id/LEGIARTI000045212099/2022-02-23) - Modifié par [LOI n°2022-217 du 21 février 2022 - art. 105](https://www.legifrance.gouv.fr/loda/id/LEGIARTI000045199115/2022-02-23)
 
-## Finalité
+> ### _Ce que dit la loi :_
+> * _Le département établit, après avis des communes intéressées, un plan départemental des itinéraires de promenade et de randonnée._
+> * _Les itinéraires inscrits à ce plan peuvent emprunter des voies publiques existantes, des chemins relevant du domaine privé du département ainsi que les emprises de la servitude destinée à assurer le passage des piétons sur les propriétés riveraines du domaine public maritime en application de [l'article L. 121-31 du code de l'urbanisme](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210502). Les itinéraires inscrits à ce plan peuvent emprunter les emprises de la servitude de marchepied mentionnée à [l'article L. 2131-2 du code général de la propriété des personnes publiques](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031065981). Ils peuvent également, après délibération des communes concernées, emprunter des chemins ruraux et, après conventions passées avec les propriétaires intéressés, emprunter des chemins ou des sentiers appartenant à l'Etat, à d'autres personnes publiques ou à des personnes privées. Ces conventions peuvent fixer les dépenses d'entretien et de signalisation mises à la charge du département._
+> * _Tout acte emportant la disparition d'un chemin rural susceptible d'interrompre la continuité d'un itinéraire inscrit sur le plan départemental des itinéraires de promenade et de randonnée doit, à peine de nullité, comporter soit le maintien, soit le rétablissement de cette continuité par un itinéraire de substitution. Toute opération publique d'aménagement foncier doit également respecter ce maintien ou cette continuité._
+> * _La circulation des piétons sur les voies et chemins inscrits au plan départemental des itinéraires de promenade et de randonnée, ou ceux identifiés pour les chemins privés, après conventions passées avec les propriétaires de ces chemins, par les communes et les fédérations de randonneurs agréées s'effectue librement, dans le respect des lois et règlements de police et des droits des riverains._
+> * _Les maires, en vertu de leur pouvoir de police, peuvent, le cas échéant, réglementer les conditions d'utilisation de ces itinéraires._
 
-> _Les enjeux et objectifs liés à la création du standard doivent être précisés ici._
+
+## Objectif
+
+Création d'un standard de données national afin de :
+*	inventorier les itinéraires de randonnée,
+*	harmoniser les pratiques entre territoires,
+*	faciliter la gestion et la valorisation des données.
+
 
 ## Cas d’usage
 
