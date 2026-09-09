@@ -1,0 +1,17 @@
+﻿Nom du champ;Description
+ID;"Numéro identifiant
+(donnée gestionnaire)"
+NOM;"Numéro du tronçon 
+(donnée gestionnaire)"
+USAGES;Activités sur ce tronçon (Balisages PEDESTRE, EQUESTRE, VTT, TRAIL)
+RESEAUX;Réseaux auquels appartient le tronçon (PDIPR, PR, GR ou GRP, VTT, EQUESTRE)
+STRUCTURE;Structure ayant fourni les informations (Conseil Départemental 04)
+DATE DE MO;Date de modification du tronçon
+COMMUNES;Communes traversées
+SECTEURS;Communautés de communes traversées
+ZONAGE REG;Zones réglementaires traversées
+LONGUEUR;Longueur de la randonnée (en mètres)
+DENIVELEE;Dénivelé positif de la randonnée
+DENIVELE_1;Dénivelé négatif de la randonnée
+ALTITUDE_M;Altitude minimum au cours de la randonnée
+ALTITUDE_1;Altitude maximum au cours de la randonnée
