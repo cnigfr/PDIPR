@@ -42,7 +42,7 @@ Création d'un standard de données national afin de :
 
 > _A supprimer en l'absence de schéma JSON :_
 
-* Le dossier [schéma](schéma) contiendra le schéma ainsi que les documents qui lui sont liés.
+* Le dossier [schema](schema) contiendra le schéma ainsi que les documents qui lui sont liés.
   Ce standard CNIG ne possède pas encore de schéma de données directement accessible sur schema.data.gouv.fr.
 
 ## Modalités de production des données
