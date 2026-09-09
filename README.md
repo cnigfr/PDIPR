@@ -1,6 +1,6 @@
 # Standard Plan départemental des itinéraires de promenade et de randonnée (PDIPR)
 
-Dépôt des documents et travaux du groupe de travail pour la création du standard PDIPR.
+Dépôt des documents et travaux du [Groupe de travail pour la création du standard PDIPR](https://cnig.gouv.fr/groupe-de-travail-plans-departementaux-des-a30072.html).
 
 ## Présentation
 Le Groupe de travail a pour objectif de la création d'un standard de données du PDIPR.
