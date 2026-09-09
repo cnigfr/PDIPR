@@ -36,7 +36,7 @@ Création d'un standard de données national afin de :
 
 * Le dossier [ressources](ressources) contient les documents utiles pour les utilisateurs du standard ;
 * Le dossier [groupe de travail CNIG](groupe_de_travail_CNIG) contient les comptes-rendus de réunions et les documents de suivi du groupe de travail ;
-* Le dossier [dataset PDIPR - Opendata](dataset_PDIPR_Opendata) contient des exemples de jeux de données PDIPR ;
+* Le dossier [datasets](datasets) contient des exemples de jeux de données PDIPR ;
 * Le dossier [standard](standard) contient le standard ainsi que les documents qui lui sont liés ;
 
 
